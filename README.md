@@ -1,0 +1,2 @@
+# synont
+Synergetic Ontology
